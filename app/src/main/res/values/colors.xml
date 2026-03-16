@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores principais da aplicação web -->
+    <color name="primary_blue">#0d6efd</color>
+    <color name="primary_blue_dark">#0b5ed7</color>
+    <color name="background_dark">#212529</color>
+    <color name="background_card">#343a40</color>
+
+    <!-- Cores de texto -->
+    <color name="white">#FFFFFF</color>
+    <color name="text_secondary">#adb5bd</color>
+    <color name="text_hint">#6c757d</color>
+
+    <!-- Cores de status -->
+    <color name="status_red">#dc3545</color>
+    <color name="status_green">#198754</color>
+    <color name="status_yellow">#ffc107</color>
+    <color name="status_blue">#0d6efd</color>
+</resources>

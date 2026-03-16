@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Monitor WhatsApp</string>
+    <string name="accessibility_service_description">Este serviço permite que o app Monito WhatsApp acesse notificações e conteúdo do WhatsApp para monitorar mensagens. Os dados são enviados apenas para seu servidor privado.</string>
+</resources>

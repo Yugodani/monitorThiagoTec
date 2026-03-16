@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Configuração para produção (Render) -->
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">monitor-whats-53jh.onrender.com</domain>
+    </domain-config>
+
+    <!-- Para desenvolvimento com HTTP local (opcional) -->
+    <debug-overrides>
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </debug-overrides>
+</network-security-config>
